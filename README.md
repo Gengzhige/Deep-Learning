@@ -38,18 +38,18 @@
 
 ### Chapter-02 数学知识回顾
 
-- [ ] 2-1 线性代数
-- [ ] 2-2 微积分
-- [ ] 2-3 概率
+- [x] 2-1 [线性代数](./Chapter-02%20%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/2-1%20%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.ipynb)
+- [x] 2-2 [微积分](./Chapter-02%20%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/2-2%20%E5%BE%AE%E7%A7%AF%E5%88%86.ipynb)
+- [x] 2-3 [概率](./Chapter-02%20%E6%95%B0%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE/2-3%20%E6%A6%82%E7%8E%87.ipynb)
 
 ------
 
 ### Chapter-03 环境安装和工具使用
 
-- [ ] 3-1 [CUDA+Anaconda]深度学习环境配置
-- [ ] 3-2 conda实用命令
-- [ ] 3-3 [Jupyter Notebook]快速上手
-- [ ] 3-4 深度学习库Pytorch安装
+- [x] 3-1 [CUDA+Anaconda深度学习环境配置](./Chapter-03%20%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E5%92%8C%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/3-1%20%5BCUDA%2BAnaconda%5D%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.ipynb)
+- [x] 3-2 [conda实用命令](./Chapter-03%20%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E5%92%8C%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/3-2%20conda%E5%AE%9E%E7%94%A8%E5%91%BD%E4%BB%A4.ipynb)
+- [x] 3-3 [Jupyter Notebook快速上手](./Chapter-03%20%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E5%92%8C%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/3-3%20%5BJupyter%20Notebook%5D%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B.ipynb)
+- [x] 3-4 [深度学习库Pytorch安装](./Chapter-03%20%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E5%92%8C%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/3-4%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BA%93Pytorch%E5%AE%89%E8%A3%85.ipynb)
 
 ------
 
