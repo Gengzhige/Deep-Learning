@@ -78,6 +78,7 @@
 
 ### Chapter-06 梯度下降算法及其变体
 
+- [x] 6-0 [本章概述](./Chapter-06%20%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6%E5%8F%98%E4%BD%93/6-0%20%E6%9C%AC%E7%AB%A0%E6%A6%82%E8%BF%B0.ipynb)
 - [x] 6-1 [最优化理论](./Chapter-06%20%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6%E5%8F%98%E4%BD%93/6-1%20%E6%9C%80%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.ipynb)
 - [x] 6-2 [损失函数性质](./Chapter-06%20%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6%E5%8F%98%E4%BD%93/6-2%20%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0%E6%80%A7%E8%B4%A8.ipynb)
 - [x] 6-3 [梯度下降](./Chapter-06%20%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6%E5%8F%98%E4%BD%93/6-3%20%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D.ipynb)
@@ -94,22 +95,24 @@
 
 ### Chapter-07 卷积神经网络
 
-- [ ] 7-1 卷积层
-- [ ] 7-2 图像卷积
-- [ ] 7-3 常用操作
-- [ ] 7-4 池化层
-- [ ] 7-5 卷积神经网络
+- [x] 7-0 [本章概述](./Chapter-07%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/7-0%20%E6%9C%AC%E7%AB%A0%E6%A6%82%E8%BF%B0.ipynb)
+- [x] 7-1 [卷积层](./Chapter-07%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/7-1%20%E5%8D%B7%E7%A7%AF%E5%B1%82.ipynb)
+- [x] 7-2 [图像卷积](./Chapter-07%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/7-2%20%E5%9B%BE%E5%83%8F%E5%8D%B7%E7%A7%AF.ipynb)
+- [x] 7-3 [常用操作](./Chapter-07%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/7-3%20%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.ipynb)
+- [x] 7-4 [池化层](./Chapter-07%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/7-4%20%E6%B1%A0%E5%8C%96%E5%B1%82.ipynb)
+- [x] 7-5 [卷积神经网络](./Chapter-07%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/7-5%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
 
 ------
 
 ### Chapter-08 复杂卷积神经网络
 
-- [ ] 8-1 AlexNet
-- [ ] 8-2 VGGNet
-- [ ] 8-3 GoogLeNet
-- [ ] 8-4 批量规范化
-- [ ] 8-5 ResNet
-- [ ] 8-6 DenseNet
+- [x] 8-0 [本章概述](./Chapter-08%20%E5%A4%8D%E6%9D%82%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/8.0%20%E6%9C%AC%E7%AB%A0%E6%A6%82%E8%BF%B0.ipynb)
+- [x] 8-1 [AlexNet](./Chapter-08%20%E5%A4%8D%E6%9D%82%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/8.1%20AlexNet.ipynb)
+- [x] 8-2 [VGGNet](./Chapter-08%20%E5%A4%8D%E6%9D%82%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/8.2%20VGGNet.ipynb)
+- [x] 8-3 [批量规范化](./Chapter-08%20%E5%A4%8D%E6%9D%82%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/8.3%20%E6%89%B9%E9%87%8F%E6%A0%87%E5%87%86%E5%8C%96.ipynb)
+- [x] 8-4 [GoogLeNet](./Chapter-08%20%E5%A4%8D%E6%9D%82%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/8.4%20GoogLeNet.ipynb)
+- [x] 8-5 [ResNet](./Chapter-08%20%E5%A4%8D%E6%9D%82%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/8.5%20ResNet.ipynb)
+- [x] 8-6 [DenseNet](./Chapter-08%20%E5%A4%8D%E6%9D%82%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/8.6%20DenseNet.ipynb)
 
 ------
 
