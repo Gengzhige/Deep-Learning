@@ -118,11 +118,12 @@
 
 ### Chapter-09 循环神经网络
 
-- [ ] 9-1 序列建模
-- [ ] 9-2 文本数据预处理
-- [ ] 9-3 语言模型
-- [ ] 9-4 统计分析和数据集构造
-- [ ] 9-5 循环神经网络
+- [x] 9-0 [本章概述](./Chapter-09%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/9.0%20%E6%9C%AC%E7%AB%A0%E6%A6%82%E8%BF%B0.ipynb)
+- [x] 9-1 [序列建模](./Chapter-09%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/9.1%20%E5%BA%8F%E5%88%97%E5%BB%BA%E6%A8%A1.ipynb)
+- [x] 9-2 [文本数据预处理](./Chapter-09%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/9.2%20%E6%96%87%E6%9C%AC%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86.ipynb)
+- [x] 9-3 [语言模型](./Chapter-09%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/9.3%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.ipynb)
+- [x] 9-4 [统计分析和数据集构造](./Chapter-09%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/9.4%20%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E5%92%8C%E6%95%B0%E6%8D%AE%E9%9B%86%E6%9E%84%E9%80%A0.ipynb)
+- [x] 9-5 [循环神经网络](./Chapter-09%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/9.5%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
 
 ------
 
